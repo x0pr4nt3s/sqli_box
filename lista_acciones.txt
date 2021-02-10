@@ -1,0 +1,21 @@
+
+
+* instalar apache : sudo apt install apache2 
+
+
+* instalar mysql : sudo apt-get install mysql-server
+
+
+- Colocar password.
+- Repetir password.
+
+
+
+
+
+* instalar php : sudo apt install php
+
+
+
+
+
