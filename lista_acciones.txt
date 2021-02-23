@@ -11,9 +11,47 @@
 
 
 
-
-
 * instalar php : sudo apt install php
+
+
+* sudo git clone "https://github.com/x0pr4nt3s/sqli_box.git"
+
+  - sudo mv sqli_box/* . && sudo rm -rf sqli_box/
+.---------------------------------------------------------
+
+- apt-get install software-properties-common python-software-properties
+
+
+sudo add-apt-repository -y ppa:ondrej/php
+sudo apt-get update
+
+sudo apt-get install php7.2 php7.2-cli php7.2-common
+
+sudo apt search php7.2
+
+apt-get install php7.2-curl php7.2-gd php7.2-json php7.2-mbstring php7.2-intl php7.2-mysql php7.2-xml php7.2-zip
+
+
+sudo mysql -u root -p
+
+ ingresar contraseña de root
+
+
+
+------------------------------------------------
+
+
+---------------------------------------
+Crear una base de datos en mysql :
+
+- Crear tablas.
+- insertar usuarios.
+
+
+
+
+
+
 
 
 
