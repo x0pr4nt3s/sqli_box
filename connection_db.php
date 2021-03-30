@@ -18,5 +18,18 @@ if (mysqli_query($conn, $sql)) {
   echo "Error creating database: " . mysqli_error($conn);
 }
 
+// Create Tables 
+
+$sql = ""
+
+
+
+// Insert data 
+
+
+
+
+
 mysqli_close($conn);
+
 ?>
